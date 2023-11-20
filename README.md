@@ -1,5 +1,7 @@
-## Usage
+## Setup
+
+
 
 ```bash
-pip install easyocr
+pip -r requirements.txt
 ```
